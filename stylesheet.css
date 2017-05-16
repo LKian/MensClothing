@@ -70,7 +70,8 @@ nav .companyLogo {
 .feature .fa {
 	margin: 25px 0; 
 	border: 1px solid #e04742; 
-	background-color: #fff;
+	background-color: #F9FAF8;
+	color: #e04742;
 	height: 100px;
 	width: 100px; 
 	border-radius: 50%;
